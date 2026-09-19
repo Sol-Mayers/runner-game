@@ -9,7 +9,7 @@ export class World {
     this.layoutReady = false;
 
     this.boneTexture = new THREE.TextureLoader().load(
-      "/assets/Images/yellow-bone.png",
+      "/assets/images/yellow-bone.png",
     );
 
     this.boneTexture.colorSpace = THREE.SRGBColorSpace;

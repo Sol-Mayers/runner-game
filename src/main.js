@@ -13,7 +13,7 @@ app.innerHTML = `
     >
       <img
         class="start-label"
-        src="/assets/Images/label.png"
+        src="/assets/images/label.png"
         alt="Hoff"
       />
 
@@ -27,19 +27,19 @@ app.innerHTML = `
         <div class="living-room" aria-hidden="true">
           <img
             class="room-furniture"
-            src="/assets/Images/furniture.png"
+            src="/assets/images/furniture.png"
             alt=""
           />
 
           <img
             class="room-dog"
-            src="/assets/Images/dog.png"
+            src="/assets/images/dog.png"
             alt=""
           />
 
           <img
             class="room-balloons"
-            src="/assets/Images/baloons.png"
+            src="/assets/images/baloons.png"
             alt=""
           />
         </div>
@@ -81,13 +81,13 @@ app.innerHTML = `
     >
       <img
         class="rules-label"
-        src="/assets/Images/label.png"
+        src="/assets/images/label.png"
         alt="Hoff"
       />
 
       <div class="rules-balloons" aria-hidden="true">
         <img
-          src="/assets/Images/many-balloons.png"
+          src="/assets/images/many-balloons.png"
           alt=""
         />
       </div>
@@ -101,7 +101,7 @@ app.innerHTML = `
           <article class="rules-row">
             <div class="rules-icon" aria-hidden="true">
               <img
-                src="/assets/Images/yellow-bone.png"
+                src="/assets/images/yellow-bone.png"
                 alt=""
               />
             </div>
@@ -117,7 +117,7 @@ app.innerHTML = `
           <article class="rules-row">
             <div class="rules-icon" aria-hidden="true">
               <img
-                src="/assets/Images/button.png"
+                src="/assets/images/button.png"
                 alt=""
               />
             </div>
@@ -143,7 +143,7 @@ app.innerHTML = `
           <article class="rules-row">
             <div class="rules-icon" aria-hidden="true">
               <img
-                src="/assets/Images/display.png"
+                src="/assets/images/display.png"
                 alt=""
               />
             </div>
@@ -166,7 +166,7 @@ app.innerHTML = `
             <div class="reward-image-wrapper">
               <img
                 class="reward-image reward-image--single"
-                src="/assets/Images/bone.png"
+                src="/assets/images/bone.png"
                 alt=""
               />
             </div>
@@ -184,7 +184,7 @@ app.innerHTML = `
             <div class="reward-image-wrapper">
               <img
                 class="reward-image reward-image--many"
-                src="/assets/Images/bones.png"
+                src="/assets/images/bones.png"
                 alt=""
               />
             </div>
@@ -220,14 +220,14 @@ app.innerHTML = `
         <header class="game-header">
           <img
             class="game-logo"
-            src="/assets/Images/hoff-transparent.png"
+            src="/assets/images/hoff-transparent.png"
             alt="Hoff"
           />
 
           <div class="game-score" aria-live="polite">
             <img
               class="game-score-bone"
-              src="/assets/Images/yellow-bone.png"
+              src="/assets/images/yellow-bone.png"
               alt=""
               aria-hidden="true"
             />
@@ -244,7 +244,7 @@ app.innerHTML = `
         >
           <img
             class="level-image"
-            src="/assets/Images/level.png"
+            src="/assets/images/level.png"
             alt=""
             aria-hidden="true"
           />
@@ -253,7 +253,7 @@ app.innerHTML = `
 
           <img
             class="game-dog"
-            src="/assets/Images/action-dog.gif"
+            src="/assets/images/action-dog.gif"
             alt=""
             aria-hidden="true"
           />
@@ -267,7 +267,7 @@ app.innerHTML = `
             aria-label="Прыжок"
           >
             <img
-              src="/assets/Images/arrow.png"
+              src="/assets/images/arrow.png"
               alt=""
               aria-hidden="true"
             />
@@ -286,7 +286,7 @@ app.innerHTML = `
     >
       <img
         class="brand"
-        src="/assets/Images/label.png"
+        src="/assets/images/label.png"
         alt="Hoff"
       />
 
@@ -301,7 +301,7 @@ app.innerHTML = `
         <p class="result-score">
           <img
             class="result-score-bone"
-            src="/assets/Images/finish-bone.svg"
+            src="/assets/images/finish-bone.svg"
             alt=""
             aria-hidden="true"
           />
@@ -347,7 +347,7 @@ app.innerHTML = `
 
             <span class="consent-mark" aria-hidden="true">
               <img
-                src="/assets/Images/check.svg"
+                src="/assets/images/check.svg"
                 alt=""
               />
             </span>
@@ -382,7 +382,7 @@ app.innerHTML = `
             aria-label="Поделиться во ВКонтакте"
           >
             <img
-              src="/assets/Images/vk.png"
+              src="/assets/images/vk.png"
               alt="VK"
             />
           </a>
@@ -393,7 +393,7 @@ app.innerHTML = `
             aria-label="Поделиться в Одноклассниках"
           >
             <img
-              src="/assets/Images/ok.png"
+              src="/assets/images/ok.png"
               alt="OK"
             />
           </a>
@@ -404,7 +404,7 @@ app.innerHTML = `
             aria-label="Поделиться в Telegram"
           >
             <img
-              src="/assets/Images/tg.png"
+              src="/assets/images/tg.png"
               alt="Telegram"
             />
           </a>
@@ -415,7 +415,7 @@ app.innerHTML = `
             aria-label="Поделиться в Viber"
           >
             <img
-              src="/assets/Images/viber.png"
+              src="/assets/images/viber.png"
               alt="Viber"
             />
           </a>
@@ -426,7 +426,7 @@ app.innerHTML = `
             aria-label="Поделиться в WhatsApp"
           >
             <img
-              src="/assets/Images/whatsapp.png"
+              src="/assets/images/whatsapp.png"
               alt="WhatsApp"
             />
           </a>
