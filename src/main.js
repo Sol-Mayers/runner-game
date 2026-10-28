@@ -4,6 +4,9 @@ import { Game } from "./game/Game.js";
 
 const app = document.querySelector("#app");
 
+const imagePath = (fileName) =>
+  `${import.meta.env.BASE_URL}assets/images/${fileName}`;
+
 app.innerHTML = `
   <main class="app-shell">
     <section
@@ -13,7 +16,7 @@ app.innerHTML = `
     >
       <img
         class="start-label"
-        src="assets/images/label.png"
+        src="${imagePath("label.png")}"
         alt="Hoff"
       />
 
